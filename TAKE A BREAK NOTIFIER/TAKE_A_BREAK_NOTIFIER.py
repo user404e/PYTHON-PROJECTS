@@ -7,4 +7,3 @@ while True:
                         app_icon="TAKE_BREAK_ICON.ico",
                         timeout=20
                         )
-    
